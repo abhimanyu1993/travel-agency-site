@@ -2,9 +2,9 @@
 A mobile first travel agency website
 
 ## Tools Used:
-*ES6
-*Babel
-*WebPack
-*PostCSS
-*GULP
-*CSS3 and HTML5
+-ES6
+-Babel
+-WebPack
+-PostCSS
+-GULP
+-CSS3 and HTML5
