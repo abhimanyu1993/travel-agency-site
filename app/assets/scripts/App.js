@@ -1,11 +1,3 @@
-// let Person = require('./modules/Person');
-import Person from './modules/Person';
-let $ = require('jquery');
+import MobileMenu from './modules/MobileMenu';
 
-class Adult extends Person{
-
-}
-
-alert('abc 321');
-let john = new Adult('John','Blue');
-john.greet();
+let mobilMenu = new MobileMenu();
